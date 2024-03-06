@@ -4,6 +4,10 @@ A simple [Buff](https://buff.163.com) crawler.
 
 ## Data
 
+> last update: 2024-03-06
+>
+> Due to the instability of the price order, some sprays may be missed (1730/1791).
+
 All data are stored in `data` folder, all the following three collections are in the same format:
 
 - `data/name/*.json`, files are named by item name.
